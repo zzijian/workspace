@@ -7,67 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd52e983-f163-435c-b75f-eeaa2b5d6551" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/fontawesome/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/fontawesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/fontawesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/fontawesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/fontawesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/fontawesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/fontawesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/pe-icon/fonts/Pe-icon-7-stroke.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/pe-icon/fonts/Pe-icon-7-stroke.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/pe-icon/fonts/Pe-icon-7-stroke.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/pe-icon/fonts/Pe-icon-7-stroke.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/pe-icon/pe-icon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/img/works/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/img/works/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/img/works/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/vendors/bootstrap/grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/vendors/imagesloaded/imagesloaded.pkgd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/vendors/isotope-layout/isotope.pkgd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/vendors/jquery-one-page/jquery.nav.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/vendors/jquery.easing/jquery.easing.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/vendors/jquery.matchHeight/jquery.matchHeight.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/vendors/jquery.waypoints/jquery.waypoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/vendors/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/vendors/magnific-popup/jquery.magnific-popup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/vendors/magnific-popup/magnific-popup.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/vendors/masonry-layout/masonry.pkgd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/vendors/menu/menu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/vendors/swiper/swiper.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/vendors/swiper/swiper.jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/vendors/typed/typed.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/blog-detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/work-detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/work.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMTest_war_exploded/Image/1-2-vertical.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMTest_war_exploded/Image/Blog-image-1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMTest_war_exploded/Image/Blog-image-2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMTest_war_exploded/Image/Horizontal-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMTest_war_exploded/Image/Verticle_Ads.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMTest_war_exploded/Image/Verticle_ads-482.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMTest_war_exploded/Image/amazon-long-vertical.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMTest_war_exploded/Image/blog-image-3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMTest_war_exploded/Image/blog-image-4.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMTest_war_exploded/Image/harrys_vertical_small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMTest_war_exploded/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SSMTest_war_exploded/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/Image/1-2-vertical.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/Image/Blog-image-1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/Image/Blog-image-2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/Image/Horizontal-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/Image/Verticle_Ads.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/Image/Verticle_ads-482.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/Image/amazon-long-vertical.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/Image/blog-image-3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/Image/blog-image-4.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/Image/harrys_vertical_small.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -111,7 +50,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
-          <entry key="html" value="3" />
+          <entry key="html" value="4" />
           <entry key="iml" value="2" />
           <entry key="java" value="8" />
           <entry key="js" value="1" />
@@ -123,7 +62,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="HTML" value="3" />
+          <entry key="HTML" value="4" />
           <entry key="IDEA_MODULE" value="2" />
           <entry key="JAVA" value="8" />
           <entry key="JSP" value="2" />
@@ -153,15 +92,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-service.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -222,8 +152,32 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="69" column="75" lean-forward="true" selection-start-line="69" selection-start-column="75" selection-end-line="69" selection-end-column="75" />
+            <state relative-caret-position="304">
+              <caret line="366" column="74" selection-start-line="366" selection-start-column="74" selection-end-line="366" selection-end-column="74" />
+              <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" />
+                <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/work.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="319" column="95" selection-start-line="319" selection-start-column="75" selection-end-line="319" selection-end-column="95" />
+              <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" />
+                <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#nav#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#ul#0;n#nav#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#0;n#ul#0;n#nav#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -267,6 +221,7 @@
         <option value="$PROJECT_DIR$/src/main/resources/spring/spring-web.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/spring/spring-service.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/src/main/webapp/work.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
       </list>
     </option>
@@ -400,7 +355,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543407155566" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543407996384" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.1640625" />
@@ -624,7 +579,7 @@
       <updated>1540532610101</updated>
       <workItem from="1543389598902" duration="298000" />
       <workItem from="1543389918489" duration="1481000" />
-      <workItem from="1543391593698" duration="3650000" />
+      <workItem from="1543391593698" duration="4644000" />
     </task>
     <servers />
   </component>
@@ -661,7 +616,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5429000" />
+    <option name="totallyTimeSpent" value="6423000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -687,7 +642,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.318872" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.047722343" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.25921908" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
@@ -846,10 +801,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/work.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="319" column="95" selection-start-line="319" selection-start-column="75" selection-end-line="319" selection-end-column="95" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#nav#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#nav#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#0;n#ul#0;n#nav#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="69" column="75" lean-forward="true" selection-start-line="69" selection-start-column="75" selection-end-line="69" selection-end-column="75" />
+        <state relative-caret-position="304">
+          <caret line="366" column="74" selection-start-line="366" selection-start-column="74" selection-end-line="366" selection-end-column="74" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
