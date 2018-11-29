@@ -1,5 +1,6 @@
 package com.springboot.login.server;
 
+import com.springboot.login.entity.User;
 import com.springboot.login.mapper.Common;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -9,7 +10,10 @@ public class CommonService {
     @Autowired
     public Common commonMapper;
 
-    public String login(String studentId, String studentName){
-        return commonMapper.login(studentId, studentName);
+    public User login(String userId, String userName){
+
+
+
+        return commonMapper.login(userId,userName);
     }
 }
