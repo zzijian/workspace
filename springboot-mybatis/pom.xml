@@ -17,7 +17,7 @@
 
     <properties>
         <mybatis-spring-boot>1.2.0</mybatis-spring-boot>
-        <mysql-connector>5.1.6</mysql-connector>
+        <mysql-connector>8.0.11</mysql-connector>
     </properties>
 
     <dependencies>
@@ -48,7 +48,6 @@
             <artifactId>mysql-connector-java</artifactId>
             <version>${mysql-connector}</version>
         </dependency>
-
 
         <dependency>
             <groupId>org.springframework.boot</groupId>

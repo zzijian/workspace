@@ -7,18 +7,17 @@
 		<result column="cityName" property="cityName" />
 		<result column="description" property="description" />
 	</resultMap>
-
 	<parameterMap id="City" type="org.spring.springboot.domain.City"/>
 
 	<sql id="Base_Column_List">
 		id, provinceId, cityName, description
 	</sql>
 
-	<select id="findByName" resultMap="BaseResultMap" parameterType="java.lang.String">
+	<select id="findCityById" resultMap="BaseResultMap" parameterType="int">
 		select
 		<include refid="Base_Column_List" />
 		from city
-		where cityName = #{cityName}
+		where id = #{id}
 	</select>
 
 	<select id="findAllCity" resultMap="BaseResultMap" parameterType="java.lang.String">
@@ -27,5 +26,20 @@
 		from city
 	</select>
 
+	<insert id="insertCity" parameterType="org.spring.springboot.domain.City">
+		INSERT INTO city(provinceId, cityName, description)
+		VALUES (#{provinceId}, #{cityName}, #{description})
+	</insert>
+
+	<update id="updateCity" parameterType="org.spring.springboot.domain.City">
+		update city
+		set provinceId=#{provinceId},cityName=#{cityName},description=#{description}
+		where id=#{id}
+	</update>
+
+	<delete id="deleteCity"  parameterType="int">
+		delete from city
+		where id=#{id}
+	</delete>
 
 </mapper>

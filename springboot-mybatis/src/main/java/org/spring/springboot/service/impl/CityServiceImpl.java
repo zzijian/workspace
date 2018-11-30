@@ -19,12 +19,24 @@ public class CityServiceImpl implements CityService {
     @Autowired
     private CityDao cityDao;
 
-    public City findCityByName(String cityName) {
-        return cityDao.findByName(cityName);
+    public City findCityById(int id) {
+        return cityDao.findCityById(id);
     }
 
-    public List<City> findAllCtiy(){
+    public int updateCity(City city) {
+        return cityDao.updateCity(city);
+    }
+
+    public int deleteCity(int id) {
+        return cityDao.deleteCity(id);
+    }
+
+    public List<City> findAllCity(){
         return cityDao.findAllCity();
+    }
+
+    public int insertCity(City city) {
+        return cityDao.insertCity(city);
     }
 
 }
