@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-CN" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <script type="text/javascript" th:src="@{https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js}"></script>
+    <link th:href="@{https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css}" rel="stylesheet"/>
+    <link th:href="@{/css/default.css}" rel="stylesheet"/>
+    <link rel="icon" th:href="@{/images/favicon.ico}" type="image/x-icon"/>
+    <meta charset="UTF-8"/>
+    <title>树洞</title>
+</head>
+
+<body>
+
+<div class="contentDiv">
+    <div class="contentDiv">
+
+        <h5>树洞</h5>
+
+        <table class="table table-hover table-condensed">
+            <legend>
+                <strong>树洞列表</strong>
+            </legend>
+            <thead>
+            <tr>
+                <th>id</th>
+                <th>名字</th>
+                <th>树洞</th>
+                <th>日期</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr th:each="shuDong : ${shuDongList}">
+                <th scope="row" th:text="${shuDong.id}"></th>
+                <td th:text="${shuDong.name}"></td>
+                <td th:text="${shuDong.text}"></td>
+                <td th:text="${shuDong.date}"></td>
+            </tr>
+            </tbody>
+        </table>
+        <div><a class="btn btn-primary" href="/shudong/create" methods="get" role="button">创建树洞</a></div>
+    </div>
+</div>
+
+</body>
+</html>
