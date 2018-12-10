@@ -21,19 +21,28 @@
                 <strong>树洞列表</strong>
             </legend>
             <thead>
-            <tr>
-                <th>id</th>
-                <th>名字</th>
-                <th>树洞</th>
-                <th>日期</th>
-            </tr>
+            <!--<tr>-->
+                <!--<th>id</th>-->
+                <!--<th>名字</th>-->
+                <!--<th>树洞</th>-->
+                <!--<th>日期</th>-->
+            <!--</tr>-->
+
             </thead>
             <tbody>
             <tr th:each="shuDong : ${shuDongList}">
-                <th scope="row" th:text="${shuDong.id}"></th>
-                <td th:text="${shuDong.name}"></td>
-                <td th:text="${shuDong.text}"></td>
-                <td th:text="${shuDong.date}"></td>
+                <div>
+                    <p th:text="'编号： &nbsp;&nbsp; '+${shuDong.id}"></p>
+                    <p th:text="'昵称：  &nbsp;&nbsp;'+${shuDong.name}"></p>
+                    <p th:text="'树洞内容：  &nbsp;&nbsp;'+${shuDong.text}"></p>
+                    <p th:text="'日期：  &nbsp;&nbsp;'+${#dates.format(shuDong.date, 'yyyy-MM-dd HH:mm:ss')}"></p>
+                    <hr />
+                </div>
+
+                <!--<th scope="row" th:text="${shuDong.id}"></th>-->
+                <!--<td th:text="${shuDong.name}"></td>-->
+                <!--<td th:text="${shuDong.text}"></td>-->
+                <!--<td th:text="${shuDong.date}"></td>-->
             </tr>
             </tbody>
         </table>
