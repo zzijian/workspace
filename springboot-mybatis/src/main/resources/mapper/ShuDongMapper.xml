@@ -3,7 +3,7 @@
 <mapper namespace="org.spring.springboot.dao.ShuDongDao">
 
     <select id="queryAll" resultType="ShuDong">
-        SELECT * FROM shudong
+        SELECT * FROM shudong ORDER BY date DESC
     </select>
 
     <insert id="insertShuDong">

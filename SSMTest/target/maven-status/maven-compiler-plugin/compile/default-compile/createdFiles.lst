@@ -1,2 +1,7 @@
 com\ssm\dao\StudentDao.class
+com\ssm\entity\ShuDong.class
+com\ssm\web\ShuDongController.class
+com\ssm\dao\ShuDongDao.class
+com\ssm\service\impl\ShuDongServiceImpl.class
+com\ssm\service\impl\ShuDongService.class
 com\ssm\entity\Student.class

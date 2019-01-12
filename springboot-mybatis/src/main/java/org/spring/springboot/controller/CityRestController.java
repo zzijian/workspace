@@ -24,7 +24,7 @@ public class CityRestController {
     public String getUserList(ModelMap map) {
             map.addAttribute("cityList",cityService.findAllCity());
         System.out.println(cityService.findAllCity());
-        return "index";
+        return "city";
     }
 
     @RequestMapping(value = "/create", method = RequestMethod.GET)

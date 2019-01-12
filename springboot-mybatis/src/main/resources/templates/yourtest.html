@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh-CN" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <script type="text/javascript" th:src="@{https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js}"></script>
+    <link th:href="@{https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css}" rel="stylesheet"/>
+    <link th:href="@{/css/default.css}" rel="stylesheet"/>
+    <link rel="icon" th:href="@{/images/favicon.ico}" type="image/x-icon"/>
+    <meta charset="UTF-8"/>
+    <title>测试</title>
+</head>
+
+<body>
+
+<div class="contentDiv">
+    <div class="contentDiv">
+        <h5>测试</h5>
+        <div><p>你的名字：<input type="text" class="form-control" /></p></div>
+        <button id="btn">生成测试结果</button>
+        <script type="text/javascript">
+            $(function(){
+                $('#btn').click(function(){
+                    alert('2019年另一半会越来越喜欢你的！');
+                })
+            })
+        </script>
+    </div>
+</div>
+
+</body>
+</html>

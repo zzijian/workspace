@@ -1,2 +1,7 @@
 D:\workspace\SSMTest\src\main\java\com\ssm\dao\StudentDao.java
+D:\workspace\SSMTest\src\main\java\com\ssm\service\impl\ShuDongService.java
+D:\workspace\SSMTest\src\main\java\com\ssm\entity\ShuDong.java
+D:\workspace\SSMTest\src\main\java\com\ssm\dao\ShuDongDao.java
 D:\workspace\SSMTest\src\main\java\com\ssm\entity\Student.java
+D:\workspace\SSMTest\src\main\java\com\ssm\service\impl\ShuDongServiceImpl.java
+D:\workspace\SSMTest\src\main\java\com\ssm\web\ShuDongController.java
